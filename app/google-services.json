@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "18541530855",
+    "firebase_url": "https://atividade-9dba5.firebaseio.com",
+    "project_id": "atividade-9dba5",
+    "storage_bucket": "atividade-9dba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18541530855:android:60ade8e366956e9c7b5c42",
+        "android_client_info": {
+          "package_name": "flores.michelle.atv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18541530855-pm28fjhranqe6nmd1o8tci2kblmalgdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "flores.michelle.atv",
+            "certificate_hash": "bf19b6b2690979e9e07b70f67dbd10debbb56afb"
+          }
+        },
+        {
+          "client_id": "18541530855-n7v9s60tqb4tbjr3rla9p4oka3tt18tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvVsD-Gp4zoeTwQK8Sftqwh93_L8lcWIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18541530855-n7v9s60tqb4tbjr3rla9p4oka3tt18tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
